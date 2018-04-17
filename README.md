@@ -1,7 +1,7 @@
 # hit-mt-2018
 Machine Translation 2018 / Hailong Cao, HIT
 
-
+[Related blog post](https://psubnwell.github.io/2018/04/17/word-alignment-and-phrase-extraction/)
 
 ## Prerequisite
 
@@ -43,9 +43,9 @@ Or the alignment result:
 
 ```bash
 $ cat output/example/alignment.txt 
-the		das		0.9629780468299598
+the	das	0.9629780468299598
 book	buch	0.9629780468299598
-a		ein		0.8592290797833062
+a	ein	0.8592290797833062
 house	haus	0.8592290797833062
 ```
 
